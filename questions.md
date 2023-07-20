@@ -7,3 +7,5 @@
 | Di che   | Of what |
 | Quanto/i (M) | How many |
 | Quanta/e (F) | How many |
+| Perché | Why |
+| Dimmi | Tell me ...|

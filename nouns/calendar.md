@@ -1,5 +1,13 @@
 # Calendar
 
+# Day
+* sera - night
+* pomeriggio - afternoon
+* giorno - day
+* stasera - tonight
+* ora - hour
+* un attimo - one moment
+
 ## Week
 * settimana - week
 * fine settimana - weekend
@@ -32,3 +40,6 @@
 * autuno - fall
 * primavera - spring
 * inverno - winter
+
+## Holidays
+* natale - christmas
