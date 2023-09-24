@@ -8,6 +8,7 @@
 ## Furniture 
 * letto - bed
 * divano - sofa
+* tavolo - table
 
 ## Utensiles
 * caraffa - pitcher

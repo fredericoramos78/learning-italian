@@ -1,6 +1,7 @@
 # Clothing
 * anello - ring
 * borsa - bag
+* cappotto - coat
 * cintura - belt
 * giacca - jacket
 * occhiali da sole - sun glasses

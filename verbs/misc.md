@@ -12,7 +12,11 @@
 * costare - to cost
 * invitare - to invite
 * lavorare - to work
+* luccicare - to sparkle
+* mangiare - to lunch
+* pranzare - to have lunch
 * prenotare - to book
+* proviare - to try / taste
 
 ## `-ere` verbs
 * chiudere - to close
